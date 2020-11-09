@@ -1,0 +1,79 @@
+# Array题目列表
+
+- [x]27		Remove Element		[esy]
+- [x]26		Remove Duplicates from Sorted Array		[esy]
+- [ ]80		Remove Duplicates from Sorted Array II		[mid]
+- [ ]277	Find the Celebrity		[mid]-lock
+- [ ]189	Rotate Array		[mid]
+- [ ]41		First Missing Positive		[hard]
+- [ ]299	Bulls and Cows		[mid]
+- [ ]134	Gas Station		[mid]
+- [ ]118	Pascal's Triangle		很少考[esy]
+- [ ]119	Pascal's Triangle II		很少考[esy]
+- [ ]169	Majority Element		很少考[esy]
+- [ ]229	Majority Element II		很少考[mid]
+- [ ]274	H-Index		[mid]
+- [ ]275	H-Index II		Binary Search[mid]
+- [ ]243	Shortest Word Distance		[esy]-lock
+- [ ]244	Shortest Word Distance II		[mid]-lock
+- [ ]245	Shortest Word Distance III		[mid]-lock
+- [ ]217	Contains Duplicate		[esy]
+- [ ]219	Contains Duplicate II		很少考[esy]
+- [ ]220	Contains Duplicate III		很少考[mid]
+- [ ]55		Jump Game		[mid]
+- [ ]45		Jump Game II		[hard]
+- [ ]121	Best Time to Buy and Sell Stock		[esy]
+- [ ]122	Best Time to Buy and Sell Stock II		[esy]
+- [ ]123	Best Time to Buy and Sell Stock III		[hard]
+- [ ]188	Best Time to Buy and Sell Stock IV		[hard]
+- [ ]309	Best Time to Buy and Sell Stock with Cooldown		[mid]
+- [ ]11		Container With Most Water		[mid]
+- [ ]42		Trapping Rain Water		[hard]
+- [ ]334	Increasing Triplet Subsequence		[mid]
+- [ ]128	Longest Consecutive Sequence		[hard]
+- [ ]164	Maximum Gap		Bucket [hard]
+- [ ]287	Find the Duplicate Number		[mid]
+- [ ]135	Candy		很少考 [hard]
+- [ ]330	Patching Array		很少考[hard]
+##提高
+- [ ]4		Median of Two Sorted Arrays		很少考 [hard]
+- [ ]321	Create Maximum Number		很少考 [hard]
+- [ ]327	Count of Range Sum		[hard]
+- [ ]289	Game of Life		[mid]
+##Interval
+- [ ]57		Insert Interval		[hard]
+- [ ]56		Merge Intervals		[mid]
+- [ ]252	Meeting Rooms		[esy]-lock
+- [ ]253	Meeting Rooms II		[mid]-lock
+- [ ]352	Data Stream as Disjoint Intervals		TreeMap [hard]
+##Counter
+- [ ]239	Sliding Window Maximum		[hard]
+- [ ]295	Find Median from Data Stream		[hard]
+- [ ]53		Maximum Subarray		[esy]
+- [ ]325	Maximum Size Subarray Sum Equals k		[mid]-lock
+- [ ]209	Minimum Size Subarray Sum		[mid]
+- [ ]238	Product of Array Except Self		[mid]
+- [ ]152	Maximum Product Subarray		[mid]
+- [ ]228	Summary Ranges		[esy]
+- [ ]163	Missing Ranges		[mid]-lock
+##Counter
+- [ ]88		Merge Sorted Array		[esy]
+- [ ]75		Sort Colors		[mid]
+- [ ]283	Move Zeroes		[esy]
+- [ ]376	Wiggle Subsequence		[mid]
+- [ ]280	Wiggle Sort		[mid]-lock
+- [ ]324	Wiggle Sort II		[mid]
+- [ ]278	First Bad Version		[esy]
+- [ ]35		Search Insert Position		[esy]
+- [ ]33		Search in Rotated Sorted Array		[mid]
+- [ ]81		Search in Rotated Sorted Array II		[mid]
+- [ ]153	Find Minimum in Rotated Sorted Array		[mid]
+- [ ]154	Find Minimum in Rotated Sorted Array II		[hard]
+- [ ]162	Find Peak Element		[mid]
+- [ ]374	Guess Number Higher or Lower		[esy]
+- [ ]34		Find First and Last Position of Element in Sorted Array		[mid]
+- [ ]349	Intersection of Two Arrays		[esy]
+- [ ]350	Intersection of Two Arrays II		[esy]
+- [ ]315	Count of Smaller Numbers After Self		[hard]
+- [ ]300	Longest Increasing Subsequence		[mid]
+- [ ]354	Russian Doll Envelopes    [hard]

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="linklist">
+      <UniqueIdentifier>{7de794ef-0599-4420-a04e-8174008d247e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stack+Queue">
+      <UniqueIdentifier>{d1986ac7-41d2-4747-89dd-8ff744498a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinaryTree">
+      <UniqueIdentifier>{aab5a1c5-9659-485d-a872-25c62df2c95f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LinkList.cpp">
+      <Filter>linklist</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Stack&amp;Queue\MinStack.cpp">
+      <Filter>Stack+Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualFunc.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkListDefine.h">
+      <Filter>linklist</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
