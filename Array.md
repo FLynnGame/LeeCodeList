@@ -8,21 +8,21 @@
 - [ ]41		First Missing Positive		[hard]
 - [ ]299	Bulls and Cows		[mid]
 - [ ]134	Gas Station		[mid]
-- [ ]118	Pascal's Triangle		很少考[esy]
+- [x]118	Pascal's Triangle		很少考[esy]
 - [ ]119	Pascal's Triangle II		很少考[esy]
-- [ ]169	Majority Element		很少考[esy]
-- [ ]229	Majority Element II		很少考[mid]
+- [x]169	Majority Element		很少考[esy]
+- [x]229	Majority Element II		很少考[mid]
 - [ ]274	H-Index		[mid]
 - [ ]275	H-Index II		Binary Search[mid]
 - [ ]243	Shortest Word Distance		[esy]-lock
 - [ ]244	Shortest Word Distance II		[mid]-lock
 - [ ]245	Shortest Word Distance III		[mid]-lock
-- [ ]217	Contains Duplicate		[esy]
+- [x]217	Contains Duplicate		[esy]
 - [ ]219	Contains Duplicate II		很少考[esy]
 - [ ]220	Contains Duplicate III		很少考[mid]
 - [ ]55		Jump Game		[mid]
 - [ ]45		Jump Game II		[hard]
-- [ ]121	Best Time to Buy and Sell Stock		[esy]
+- [x]121	Best Time to Buy and Sell Stock		[esy]
 - [ ]122	Best Time to Buy and Sell Stock II		[esy]
 - [ ]123	Best Time to Buy and Sell Stock III		[hard]
 - [ ]188	Best Time to Buy and Sell Stock IV		[hard]
@@ -57,14 +57,14 @@
 - [ ]228	Summary Ranges		[esy]
 - [ ]163	Missing Ranges		[mid]-lock
 ##Counter
-- [ ]88		Merge Sorted Array		[esy]
+- [x]88		Merge Sorted Array		[esy]
 - [ ]75		Sort Colors		[mid]
 - [ ]283	Move Zeroes		[esy]
 - [ ]376	Wiggle Subsequence		[mid]
 - [ ]280	Wiggle Sort		[mid]-lock
 - [ ]324	Wiggle Sort II		[mid]
 - [ ]278	First Bad Version		[esy]
-- [ ]35		Search Insert Position		[esy]
+- [x]35		Search Insert Position		[esy]
 - [ ]33		Search in Rotated Sorted Array		[mid]
 - [ ]81		Search in Rotated Sorted Array II		[mid]
 - [ ]153	Find Minimum in Rotated Sorted Array		[mid]

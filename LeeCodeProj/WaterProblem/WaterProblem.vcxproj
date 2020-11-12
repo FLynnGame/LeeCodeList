@@ -24,6 +24,7 @@
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My1sum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>Base</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,11 +148,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="118PascalTriangle.cpp" />
+    <ClCompile Include="119PascalTriangleII.cpp" />
     <ClCompile Include="13RomanToInt.cpp" />
     <ClCompile Include="14LongestCommonPrefix.cpp" />
     <ClCompile Include="15ThreeSum.cpp" />
+    <ClCompile Include="169majorityElement.cpp" />
     <ClCompile Include="189Rotate.cpp" />
     <ClCompile Include="1Sum.cpp" />
+    <ClCompile Include="229majorityElement.cpp" />
     <ClCompile Include="26RemoveDuplicates.cpp" />
     <ClCompile Include="27removeElement.cpp" />
     <ClCompile Include="3lengthOfLongestSubstring.cpp" />
@@ -161,9 +166,6 @@
     <ClCompile Include="9Palindrome.cpp" />
     <ClCompile Include="242Anagram.cpp" />
     <ClCompile Include="temp.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Anagram.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

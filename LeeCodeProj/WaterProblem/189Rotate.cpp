@@ -52,10 +52,10 @@ public:
 	}
 };
 
-int main()
-{
-	std::vector<int> ivec = { -1,-100,3,99 };
-	Solution s;
-	s.rotate(ivec, 2);
-	return 0;
-}
+//int main()
+//{
+//	std::vector<int> ivec = { -1,-100,3,99 };
+//	Solution s;
+//	s.rotate(ivec, 2);
+//	return 0;
+//}
