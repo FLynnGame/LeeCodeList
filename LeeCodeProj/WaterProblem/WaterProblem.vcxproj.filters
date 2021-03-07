@@ -64,5 +64,17 @@
     <ClCompile Include="229majorityElement.cpp">
       <Filter>Array</Filter>
     </ClCompile>
+    <ClCompile Include="605canPlaceFlowers.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
+    <ClCompile Include="217containsDuplicate.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
+    <ClCompile Include="singleNumber.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
+    <ClCompile Include="firstUniqChar.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

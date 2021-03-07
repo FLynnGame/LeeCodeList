@@ -96,10 +96,10 @@ public:
 	}
 };
 
-int main()
-{
-	Solution s;
-	std::vector<int> ivec = { 0,0,0 };
-	s.majorityElement(ivec);
-	return 0;
-}
+//int main()
+//{
+//	Solution s;
+//	std::vector<int> ivec = { 0,0,0 };
+//	s.majorityElement(ivec);
+//	return 0;
+//}

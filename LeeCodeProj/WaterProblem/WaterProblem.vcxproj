@@ -156,15 +156,19 @@
     <ClCompile Include="169majorityElement.cpp" />
     <ClCompile Include="189Rotate.cpp" />
     <ClCompile Include="1Sum.cpp" />
+    <ClCompile Include="217containsDuplicate.cpp" />
     <ClCompile Include="229majorityElement.cpp" />
     <ClCompile Include="26RemoveDuplicates.cpp" />
     <ClCompile Include="27removeElement.cpp" />
     <ClCompile Include="3lengthOfLongestSubstring.cpp" />
+    <ClCompile Include="605canPlaceFlowers.cpp" />
     <ClCompile Include="7Reverse.cpp" />
     <ClCompile Include="80removeDuplicatesII.cpp" />
     <ClCompile Include="88Merge.cpp" />
     <ClCompile Include="9Palindrome.cpp" />
     <ClCompile Include="242Anagram.cpp" />
+    <ClCompile Include="firstUniqChar.cpp" />
+    <ClCompile Include="singleNumber.cpp" />
     <ClCompile Include="temp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

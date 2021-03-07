@@ -63,7 +63,8 @@
 - [ ]376	Wiggle Subsequence		[mid]
 - [ ]280	Wiggle Sort		[mid]-lock
 - [ ]324	Wiggle Sort II		[mid]
-- [ ]278	First Bad Version		[esy]
+- [x]278	First Bad Version		[esy]
+
 - [x]35		Search Insert Position		[esy]
 - [ ]33		Search in Rotated Sorted Array		[mid]
 - [ ]81		Search in Rotated Sorted Array II		[mid]

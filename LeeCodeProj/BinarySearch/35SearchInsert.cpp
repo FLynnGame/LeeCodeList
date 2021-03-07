@@ -91,16 +91,16 @@ public:
 	}
 };
 
-int main()
-{
-	Solution s;
-	std::vector<int> ivec = { 1,3,5,6,7,10,12,15 };
-
-	std::vector<int> target = { 5,2,7,0,6,16 };
-	for (size_t i = 0; i < target.size(); i++)
-	{
-		std::cout << s.searchInsert(ivec, target[i]) << std::endl;
-	}
-
-	return 0;
-}
+//int main()
+//{
+//	Solution s;
+//	std::vector<int> ivec = { 1,3,5,6,7,10,12,15 };
+//
+//	std::vector<int> target = { 5,2,7,0,6,16 };
+//	for (size_t i = 0; i < target.size(); i++)
+//	{
+//		std::cout << s.searchInsert(ivec, target[i]) << std::endl;
+//	}
+//
+//	return 0;
+//}
