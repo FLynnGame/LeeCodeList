@@ -22,9 +22,9 @@ public:
 	}
 };
 
-int main() {
-	Solution s;
-	std::string str = "l";
-	std::cout << s.firstUniqChar(str);
-	return 0;
-}
+//int main() {
+//	Solution s;
+//	std::string str = "l";
+//	std::cout << s.firstUniqChar(str);
+//	return 0;
+//}

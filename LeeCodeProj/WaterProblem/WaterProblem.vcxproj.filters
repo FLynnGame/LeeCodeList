@@ -76,5 +76,8 @@
     <ClCompile Include="firstUniqChar.cpp">
       <Filter>Array</Filter>
     </ClCompile>
+    <ClCompile Include="575distributeCandies.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

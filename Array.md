@@ -35,6 +35,7 @@
 - [ ]287	Find the Duplicate Number		[mid]
 - [ ]135	Candy		很少考 [hard]
 - [ ]330	Patching Array		很少考[hard]
+- [x]575	分糖果	[esy]
 ##提高
 - [ ]4		Median of Two Sorted Arrays		很少考 [hard]
 - [ ]321	Create Maximum Number		很少考 [hard]
