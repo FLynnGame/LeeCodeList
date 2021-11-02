@@ -26,9 +26,9 @@ private:
     std::unordered_map<int, int> m_map;
 };
 
-int main() {
-    Solution s;
-    std::vector<int> ivec = {1,1,2,2,3,4};
-    std::cout << s.distributeCandies(ivec);
-    return 0;
-}
+//int main() {
+//    Solution s;
+//    std::vector<int> ivec = {1,1,2,2,3,4};
+//    std::cout << s.distributeCandies(ivec);
+//    return 0;
+//}

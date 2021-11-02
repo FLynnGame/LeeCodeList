@@ -17,6 +17,9 @@
     <ClCompile Include="面试题0202kthToLast.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="237deleteNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">

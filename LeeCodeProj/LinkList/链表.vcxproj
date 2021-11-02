@@ -23,6 +23,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="234isPalindrome.cpp" />
+    <ClCompile Include="237deleteNode.cpp" />
     <ClCompile Include="面试题0202kthToLast.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

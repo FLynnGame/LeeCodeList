@@ -54,11 +54,11 @@ public:
 	}
 };
 
-int main() {
-	std::vector<int> ivec = { 1,2,3 };
-	ListNode* list = constructLinkList(ivec);
-	Solution s;
-	bool bResult = s.isPalindrome(list);
-
-	return 0;
-}
+//int main() {
+//	std::vector<int> ivec = { 1,2,3 };
+//	ListNode* list = constructLinkList(ivec);
+//	Solution s;
+//	bool bResult = s.isPalindrome(list);
+//
+//	return 0;
+//}

@@ -6,7 +6,7 @@
 - [ ]24	Swap Nodes in Pairs		
 - [ ]328	Odd Even Linked List		
 - [ ]92	Reverse Linked List II		
-- [ ]237	Delete Node in a Linked List		
+- [x]237	Delete Node in a Linked List		
 - [ ]19	Remove Nth Node From End of List		
 - [ ]83	Remove Duplicates from Sorted List		
 - [ ]203	Remove Linked List Elements		

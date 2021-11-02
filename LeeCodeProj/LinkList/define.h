@@ -1,5 +1,6 @@
 #pragma once
 
+#include <iostream>
 #include <vector>
 
 struct ListNode {
@@ -19,4 +20,13 @@ static ListNode* constructLinkList(std::vector<int> ivec) {
 		itor = itor->next;
 	}
 	return head;
+}
+
+static void printLinkList(ListNode* head) {
+	ListNode* pHead = head;
+	while (nullptr != pHead)
+	{
+		std::cout << pHead->val << std::endl;
+		pHead = pHead->next;
+	}
 }
