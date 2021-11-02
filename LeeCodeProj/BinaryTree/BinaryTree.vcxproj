@@ -119,6 +119,7 @@
     <ClCompile Include="101isSymmetric.cpp" />
     <ClCompile Include="104MaxDepth.cpp" />
     <ClCompile Include="112hasPathSun.cpp" />
+    <ClCompile Include="define.h" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

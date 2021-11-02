@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="101isSymmetric.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="104MaxDepth.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="112hasPathSun.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="define.h">
+      <Filter>include</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{e45229fe-3e4c-4bba-b228-98c90b320c06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{86c62974-964a-40f3-ac5e-e66e0433ad78}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
