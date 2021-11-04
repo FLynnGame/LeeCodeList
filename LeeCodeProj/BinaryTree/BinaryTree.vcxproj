@@ -116,9 +116,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="100isSameTree.cpp" />
     <ClCompile Include="101isSymmetric.cpp" />
     <ClCompile Include="104MaxDepth.cpp" />
     <ClCompile Include="112hasPathSun.cpp" />
+    <ClCompile Include="94inorderTraversal.cpp" />
     <ClCompile Include="define.h" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
